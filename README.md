@@ -1,5 +1,5 @@
-Set up Node ts express
- - (https://blog.logrocket.com/how-to-set-up-node-typescript-express/)
+Set up Node ts express vercel
+ - (https://dev.to/tirthpatel/deploy-node-ts-express-typescript-on-vercel-284h/)
 
 
 
